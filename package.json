@@ -1,0 +1,45 @@
+{
+  "name": "string-minify",
+  "version": "1.0.0",
+  "description": "Simple string (file-content) minifier. This helper removes all whitespaces/newlines and trims the string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soul-wish/string-minify.git"
+  },
+  "keywords": [
+    "node",
+    "text",
+    "string",
+    "minify",
+    "uglify",
+    "whitespace",
+    "space",
+    "minifier",
+    "uglifier",
+    "strings",
+    "clean"
+  ],
+  "author": {
+    "name": "Sergey Lysenko",
+    "email": "soulwish.ls@gmail.com",
+    "url": "https://soulwish.info"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soul-wish/string-minify/issues"
+  },
+  "homepage": "https://github.com/soul-wish/string-minify#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
