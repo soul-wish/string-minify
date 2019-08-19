@@ -1,7 +1,7 @@
 {
   "name": "string-minify",
   "version": "1.0.0",
-  "description": "Simple string (file-content) minifier. This helper removes all whitespaces/newlines and trims the string.",
+  "description": "Simple string (file-content) minifier. This helper removes all extra whitespaces, tabs, newlines and trims the string.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
